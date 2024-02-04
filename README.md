@@ -1,6 +1,6 @@
 # Description
 # Requirements
-biopython                 1.78
+biopython                 1.78\n
 mkl-fft                   1.3.8
 mkl-random                1.2.4
 mkl-service               2.4.0
