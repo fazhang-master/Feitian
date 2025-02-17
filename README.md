@@ -39,12 +39,12 @@ torchvision               0.12.0+cu113
 xgboost                   1.7.3  
 # Content
 ## Downloading model
-**Baidu Netdisk**:链接: https://pan.baidu.com/s/1lKxockcZm2N9ZE4nLVQStg 提取码: jgre 
---来自百度网盘超级会员v3的分享
+**Baidu Netdisk**:链接: https://pan.baidu.com/s/1X0VKDyCg5r-WGYa6BX7k7g?pwd=un4q 提取码: un4q 
+--来自百度网盘超级会员v5的分享
 
 **Google Driver**:
 ## Downloading APP
-**Baidu Netdisk**:链接: https://pan.baidu.com/s/1bc34c_qnX4WpCjTnvaKKwA 提取码: 1n7f 
---来自百度网盘超级会员v3的分享
+**Baidu Netdisk**:链接: https://pan.baidu.com/s/1bRO9-L5dajI6OMGBCFi7hQ?pwd=v52v 提取码: v52v 
+--来自百度网盘超级会员v5的分享
 # Problems/Questions
 If you face any issues or problems, please open an issue.
