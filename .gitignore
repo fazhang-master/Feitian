@@ -1,0 +1,13 @@
+*.npy
+*.pickle
+*.mol
+*.pt
+READH2.csv
+READH1.csv
+readh
+requirements.txt
+re.txt
+_internal/
+models/
+output/
+input/
